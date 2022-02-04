@@ -1,0 +1,23 @@
+export const PUSH_ITEM_TO_CART = "PUSH_ITEM_TO_CART"
+export const DELETE_ITEM_IN_CART = "DELETE_ITEM_IN_CART"
+export const DELETE_ALL_ITEM_IN_CART = "DELETE_ALL_ITEM_IN_CART"
+export const INCREASE_QUANTITY = "INCREASE_QUANTITY"
+export const DECREASE_QUANTITY = "DECREASE_QUANTITY"
+
+export const LOG_IN = "LOG_IN"
+export const LOG_OUT = "LOG_OUT"
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER"
+
+export const SEND_ORDER = "SEND_ORDER"
+export const PICKUP = "PICKUP"
+export const START_SHIP = "START_SHIP"
+export const PAID = "PAID"
+
+export const DELETE_ACCOUNT = "DELETE_ACCOUNT"
+export const EDIT_ACCOUNT = "EDIT_ACCOUNT"
+export const ADD_NEW_ACCOUNT = "ADD_NEW_ACCOUNT"
+
+export const DELETE_PRODUCT = "DELETE_PRODUCT"
+export const EDIT_PRODUCT = "EDIT_PRODUCT"
+export const ADD_NEW_PRODUCT = "ADD_NEW_PRODUCT"
